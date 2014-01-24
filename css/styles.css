@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background: darkgrey;
+	font-family: Helvetica, sans-serif;
+	font-color: #333;
+}
+
+div {
+	margin: 0 auto;
+	width: 960px;
+}
+
+img {
+	display: block;
+}
